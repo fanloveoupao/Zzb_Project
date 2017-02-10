@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">广师宝</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--主界面-我-->
+    <string name="mine_prompt">完善资料，获取适合您的项目和人脉</string>
+    <string name="mine_name">刘远西</string>
+    <string name="mine_position">（职位为空）</string>
+    <string name="mine_friends_num">好友</string>
+    <string name="mine_project_num">项目</string>
+    <string name="mine_vistor">项目访客</string>
+    <string name="mine_collection">我的收藏</string>
+    <string name="mine_feedback">意见反馈</string>
+    <string name="mine_setting">设置</string>
+    <string name="mine_version_update">版本更新</string>
+    <string name="password">密码</string>
+    <string name="notification_tips">你现在无法收到新消息通知。请到系统“设置”-“应用”-“业务圈”-“通知”中开启</string>
+</resources>
